@@ -1,3 +1,4 @@
 outs:
-- md5: a6e6ab23bc2c91e9650a5057cfbe8366
+- md5: 416e2553674a7092e30d8160622c7e38
   path: covid_jpn_prefecture.csv
+  size: 388208
